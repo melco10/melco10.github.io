@@ -1,0 +1,29 @@
+.Cv-info{
+    display: flex;
+    margin-top: 5em;
+}
+.Cv-info > .display-6{
+    margin-bottom: 1em;
+    margin-top: 1.5em;
+    font-weight: 200;
+}
+
+.Cv-info > h6 ,h5{
+    margin-top: 1em;
+    font-weight: 300;
+}
+.socmed{
+    margin-top: 100px;
+}
+
+hr{
+    border: 0.5px solid #4C0070;
+    opacity: 1;
+    width: 15em;
+    margin-top: 2em;
+    margin-bottom: 2em;
+}
+
+.progress-bar{
+    background-color: #4C0070;
+}
